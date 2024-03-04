@@ -5,7 +5,6 @@ Contents
 --------
 
 .. toctree::
-
    Scope of Project
    User Requirements
    Features
